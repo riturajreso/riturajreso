@@ -21,5 +21,5 @@ Have a look:
 
 **Let's connect!**
 
-* **Twitter:** [[@YourTwitterHandle](https://twitter.com/i_m_Rituraj)]
-* **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/riturajreso/)]
+* **[Twitter](https://twitter.com/i_m_Rituraj):** 
+* **[LinkedIn](https://www.linkedin.com/in/riturajreso/):** 
