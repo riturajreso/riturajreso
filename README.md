@@ -1,6 +1,6 @@
 ##  Hi, I'm Rituraj
 
-[![Your Avatar](https://github.com/riturajreso/riturajreso/blob/main/Rituraj_PIC.png)]
+![Your Avatar](https://github.com/riturajreso/riturajreso/blob/main/Rituraj_PIC.png) width="200"
 
 I'm a Cloud Developer with a passion for exploring the latest technologies and pushing the boundaries of what's possible in the cloud. I'm currently working on multi-cloud fin-ops and enjoy exploring.
 
